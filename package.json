@@ -1,31 +1,19 @@
 {
-  "name": "hltb",
-  "version": "2.0.4",
+  "main": "node_modules/expo/AppEntry.js",
   "private": true,
-  "scripts": {
-    "start": "node node_modules/react-native/local-cli/cli.js start",
-    "test": "jest"
-  },
+  "version": "3.0.0",
   "dependencies": {
-    "prop-types": "^15.6.0",
-    "react": "^16.0.0-alpha.12",
-    "react-native": "^0.48.4",
+    "expo": "^27.0.1",
+    "howlongtobeat": "^1.0.11",
+    "prop-types": "^15.6.1",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-27.0.0.tar.gz",
+    "react-native-awesome-button": "^1.8.2",
     "react-native-cheerio": "^1.0.0-rc.4",
-    "react-native-simple-markdown": "^1.0.60-rc.3",
-    "react-navigation": "^1.0.0-beta.11"
-  },
-  "devDependencies": {
-    "babel-eslint": "^7.1.1",
-    "babel-jest": "19.0.0",
-    "babel-preset-react-native": "1.9.1",
-    "eslint": "^3.17.0",
-    "eslint-plugin-babel": "^4.1.0",
-    "eslint-plugin-react": "^6.10.0",
-    "eslint-plugin-react-native": "^2.2.1",
-    "jest": "19.0.2",
-    "react-test-renderer": "~15.4.1"
-  },
-  "jest": {
-    "preset": "react-native"
+    "react-native-colortool": "0.0.1",
+    "react-native-material-design": "^0.3.7",
+    "react-native-simple-markdown": "^1.1.0",
+    "react-native-stylesheet-xg": "^1.1.0",
+    "react-navigation": "^1.5.12"
   }
 }
