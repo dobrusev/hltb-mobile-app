@@ -6,8 +6,6 @@ credit belongs to them. You are encouraged to [donate](https://howlongtobeat.com
 This is a open-source, unofficial, and non-commercial mobile app for How Long To Beat. Feel free to contribute with issues
 and Pull Requests.
 
-End with an example of getting some data out of the system or using it for a little demo
-
 ## Built With
 Use Expo XDE to open the project and strt developing.
 
